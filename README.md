@@ -9,7 +9,7 @@ efficient, scalable, and user-centered solutions. My expertise spans a wide arra
 <p align="left">🌱 Driven by a passion for ongoing learning and staying current with the latest industry trends and technologies, with a keen desire to continually evolve professionally.<br>🤝 Firm believer in
 the power of collaboration and continuous improvement, devoted to skill development and making a positive impact on project success.<br>🔍 Detail-oriented and responsible, maintaining a focused approach to 
 solving challenges with a commitment to delivering high-quality solutions.<br>💡 Dedicated to realizing the full potential of each project, with a strong focus on adding value and fostering innovation through
-attention to detail and effective teamwork.</p>
+attention to detail and effective teamwork.<br>❤️ Fueled by a genuine love for the profession and a deep commitment to investing the time and energy needed to achieve excellence.</p>
 
 
 

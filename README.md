@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @RacheliWiener
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi 👋, I'm Rachel Weiner
 
-<!---
-RacheliWiener/RacheliWiener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a dedicated Full Stack Developer with a deep passion for crafting both comprehensive and interactive web applications. With expertise in both frontend and backend development, I focus on creating efficient, scalable, and user-friendly solutions. My proficiency spans a wide range of technologies and frameworks, and I am committed to continuous learning and skill enhancement.
+
+About Me
+💡 Creative and thorough, with a keen eye for detail in every task.
+🚀 Quick learner with a strong drive for self-improvement and advancement.
+🤝 Team player with excellent communication skills and flexibility.
+❤️ Passionate about software development and motivated to excel.
